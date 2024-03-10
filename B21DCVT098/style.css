@@ -1,0 +1,66 @@
+body{
+    background-color: #009933;
+    padding: 30px;
+    color: white;
+}
+
+.avatar{
+    border-radius: 100px;
+    
+}
+
+h1{
+    font-family: "Pacifico", cursive;
+    margin: 10px 0 8px 0;}
+.title{
+    color: #0e2452;
+}
+.date{
+     display:inline-block;
+    width: 300px;
+}
+.numberdate{
+    display:inline-block;
+}
+.sex{
+    display:inline-block;
+    width: 300px;
+}
+.male{
+    display:inline-block;
+}
+.phone{
+    display:inline-block;
+    width:300px;
+}
+.number{
+    display:inline-block;
+}
+.email{
+    display:inline-block;
+    width:300px;
+}
+.wordemail{
+    display:inline-block;
+}
+.plan{
+    display:inline-block;
+    width:300px;
+}
+.country{
+    display:inline-block;
+}
+   
+
+#thongtin{
+    position: relative;
+    right: -250px;
+}
+p{
+    font-family: "Pacifico", cursive;
+    font-size: 25px;
+}
+.name{
+    margin-top: 10px;
+    font-size: 40px;
+}
