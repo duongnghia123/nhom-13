@@ -1,0 +1,126 @@
+body{
+    margin: 0;
+    background-color: #f9f9f9;
+}
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    
+}
+
+header{
+    background-color: #336600;
+    padding: 30px 0;
+    display: flex;
+}
+.img-container{
+    background-color: white;
+    padding: 4px;
+    padding-left: 28px;
+    border-top-right-radius: 100px;
+    border-bottom-right-radius: 100px;
+    display: flex;
+}
+.img, .avatar{
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 100px;
+}
+.date{
+    display:inline-block;
+    width: 300px;
+}
+.numberdate{
+    display:inline-block;
+}
+.sex{
+    display:inline-block;
+    width: 300px;
+}
+.male{
+    display:inline-block;
+}
+.phone{
+    display:inline-block;
+    width:300px;
+}
+.number{
+    display:inline-block;
+}
+.email{
+    display:inline-block;
+    width:300px;
+}
+.wordemail{
+    display:inline-block;
+}
+.plan{
+    display:inline-block;
+    width:300px;
+}
+.country{
+    display:inline-block;
+}
+.title-container{
+    padding: 0 20px;
+    display: flex; 
+    align-items: center;
+    color: white;
+    font-size: 26px;
+    
+}
+.container{
+    padding: 20px;
+    background-color: #f9f9f9;
+    display: flex;
+    font-size: 22px;
+}
+.sidetab, .content{
+    
+    padding: 20px;
+    background-color: white;
+    width: 100%;
+}
+.sidetab{
+    width: 100%;
+    margin-right: 20px;
+}
+.content{
+    flex-grow: 1;
+} 
+.tag-fill h1{
+    background-color: green;
+    padding: 8px 20px;
+    margin-left: -20px;
+    font-size: 20px;
+    color: white;
+    display: inline-block;
+    border-top-right-radius: 100px;
+    border-bottom-right-radius: 100px;
+}
+.tag-fill ul{
+    margin: 0;
+    padding: 0;
+}
+.tag-fill ul li{
+    padding: 8px 0;
+}
+.tag{
+    padding: 0 12px;
+   margin:12PX;
+    
+}
+.content h1{
+    color: green;
+    border-left: 14px solid green;
+    padding: 8px 20px;
+    margin: 10px 0;
+    font-size: 26px;
+}
+.tag ul{
+    padding: 0;
+}
+p{
+    padding: 20px 0;
+}
